@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bon Voyage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+        rel="stylesheet" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <section class="main-section"
+        style="background-image: url('https://wallpapers.com/images/high/beach-scenes-desktop-lmq0jm7mz3paubrr.webp');">
+        <header class="header d-flex align-center">
+            <h2> Bon Voyage </h2>
+            <div class="navigation">
+                <ul>
+                    <li style="width: 164px;">Destinations</li>
+                    <li>Hotels</li>
+                    <li>Flights</li>
+                    <li>Bookings</li>
+                </ul>
+            </div>
+            <div class="authentication d-flex">
+                <button class="btn btn-primary" style="width: 107px; height: 40px; margin-right: 20px">
+                    Login
+                </button>
+                <button class="btn btn-primary" style="width: 125px; height: 40px;">Sign up</button>
+            </div>
+        </header>
+        <div class="content-section d-flex align-center">
+            <div class="content my-text">
+                <h1 style="height: 89px; width: 1108px; top:387px;left: 41px; font-size: 48px;
+                line-height: 118.38px; letter-spacing: -4%;">
+                    Travel, enjoy and live a new and full Life
+                </h1>
+                <h3 style="width: 757px; top: 476px; left:50px; font-size: 32px; line-height: 0%;">
+                    BEST DESTINATION AROUND THE WORLD</h3>
+                <button class="btn btn-secondary" style="width: 228.01px; height: 75.88px; font-weight: normal;">
+                    Find out more
+                </button>
+            </div>
+    </section>
+    <section class="category my-text" style="padding-top: 50px; text-align: center; align-items: center;">
+        <h2 class="category-title my-text" style="text-align:center; color: #4b40c5; font-size: 32px; align-items: center; font-weight: 700;
+            height: 34px; line-height: 48px; font-family: 'Poppins', sans-serif;"> CATEGORY
+        </h2>
+        <h1 class="my-text" style="padding-top: 40px; text-align:center; font-size: 64px; align-items: center; font-weight: 700;
+        height: 81px; line-height: 48px; font-family: 'Poppins', sans-serif;">
+            We Offer Best Services
+        </h1>
+        <div class="services-offered my-text" style="padding-top: 50px;">
+            <ul style="display: flex; justify-content: space-evenly; list-style-type: none;">
+                <li class="calculated-weather box" style="font-size: 24px;
+                line-height: 36px; font-weight: 500; width: 25%;">
+                    <img src="C:\Users\65926\Downloads\satellite-dish.png"
+                        style="height:97.76px; width:107.9px;  padding-bottom: 10px;">
+                    </img>
+                    </br>
+                    Calculated Weather
+                    <div style="font-weight: 400; font-size: 20px; padding-top: 10px;">
+                        As much of </br>
+                        <span> information possible </span></br>
+                        <span> with the weather </span></br>
+                    </div>
+                </li>
+                <li class="best-flights card box" style="height: 393.54px; width: 
+                313.15px; font-size: 24px;
+                line-height: 36px; font-weight: 500; width: 25%; margin-right: 20px;">
+                    <img src="https://2.bp.blogspot.com/-9L9S50E6T6o/Wz8e6CsThgI/AAAAAAAAALs/f0BU0YQh0lM0Po-a3XdxWSweuIN90cpcQCLcBGAs/s1600/160503_FT_cybersecurity-airplanes.jpg.CROP.promo-xlarge2.jpg"
+                        style="height:97.76px; width:107.9px; "></img>
+                    </br>
+                    Best Flights
+                    <div
+                        style="font-weight: 400; align-items: center; text-align: center; font-size: 20px; padding-bottom: 10px; height: 136px; width: 212px; ">
+                        Getting cheap best </br>
+                        <span> flights </span>
+                    </div>
+                </li>
+                <li class="local-events card box" style="height: 393.54px; width: 
+                313.15px; font-size: 24px;
+                line-height: 36px; font-weight: 500; align-items: center; width: 25%;">
+                    <img src="https://thumbs.dreamstime.com/z/vintage-retro-stage-microphone-web-icon-old-technology-object-concept-design-sign-vector-art-image-illustration-isolated-120388511.jpg?w=768"
+                        style="height:103px; width:75.59px;"></img></br>
+                    Local Events
+                    <div
+                        style="font-weight: 400; align-items: center; font-size: 20px; padding-bottom: 10px; height: 136px; width: 212px; ">
+                        Getting good </br>
+                        <span> iternary based on </span>
+                        <span> the events </span>
+                    </div>
+                </li>
+                <li style="height: 393.54px; width: 
+                313.15px; font-size: 24px; padding-left: 20px;
+                line-height: 36px; font-weight: 500; align-items: center; width: 25%;" class="box">
+                    <img src="https://media.istockphoto.com/id/1024061294/vector/gear-icon-outline-icon-business-services-technical-help-gear-configuration-support-center.jpg?s=1024x1024&w=is&k=20&c=8UTJwg7oIBXaE_gOKfWdNZ3KYpd3t9VHCNMWpR3bCgI="
+                        style="height:86px; width:84.64px;"></img></br>
+                    Customization
+                    <div
+                        style="font-weight: 400; align-items: center; font-size: 20px; padding-bottom: 10px; height: 136px; width: 212px; ">
+                        We deliver </br>
+                        <span> outsourced services </span>
+                        <span> for customers </span>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <section class="top-selling my-text" style="padding-top: 100px;">
+        <h3 class="category-title my-text" style="text-align:center; color: #4b40c5; font-size: 32px; align-items: center; font-weight: 700;
+            height: 34px; line-height: 48px; font-family: 'Poppins', sans-serif; margin-bottom: 10px;"> Top Selling
+        </h3>
+        <h1 class="my-text" style="padding-top: 40px; text-align:center; font-size: 64px; align-items: center; font-weight: 700;
+        height: 81px; line-height: 48px;     font-family: 'Poppins', sans-serif;"> Top Destinations</h1>
+        <div style="width: 100%; display: flex;">
+            <div class="rome " style="width: 33.33%;">
+                <img class="card"
+                    src="https://media.gettyimages.com/id/1194899511/photo/colosseum-in-rome-without-people-in-the-morning-italy.jpg?s=1024x1024&w=gi&k=20&c=3eXNTGofECg49HGtjDFA9lSkihBFK3dznRZKXshpWa4="
+                    style="height: 435px; width: 417px;"></img></br>
+                <div
+                    style="font-family:'Poppins', sans-serif; font-weight: 500; font-size: 24px; text-align: left; color: #5E6282;">
+                    Rome, Italy
+                    <span style="float: right; margin-right: 20px;"> ₹5,42Lakh </span>
+                </div>
+            </div>
+            <div class="london " style="width: 33.33%;">
+                <img class="card"
+                    src="https://www.studying-in-uk.org/wp-content/uploads/2019/05/study-in-london-696x418.jpg"
+                    style="height: 435px; width: 417px;"></img></br>
+                <div
+                    style="font-family:'Poppins', sans-serif; font-weight: 500; font-size: 24px; text-align: left; color: #5E6282;">
+                    London, UK
+                    <span style="float: right; margin-right: 20px;"> ₹4.2Lakh </span>
+                </div>
+            </div>
+            <div class="europe " style="width: 33.33%;">
+                <img class="card"
+                    src="https://aquila-style.com/wp-content/uploads/2019/06/Mosques-of-Europe-768x432.jpg"
+                    style="height: 435px; width: 417px;"></img></br>
+                <div
+                    style="font-family:'Poppins', sans-serif; font-weight: 500; font-size: 24px; text-align: left; color: #5E6282;">
+                    Full Europe
+                    <span style="float: right; margin-right: 20px;"> ₹15Lakh </span>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="next-trip" style="padding-top: 100px;padding-bottom: 100px;">
+        <div style="width: 100%; display: flex;">
+            <div style="width: 50%; ">
+                <div style="text-align:left; font-size: 23.94px;  font-weight: 700;
+         font-family: 'Poppins', sans-serif; line-height: 1.2;"> Easy and Fast</div>
+                <h1 style="text-align:left; font-size: 64px;  font-weight: 700;
+        ;font-family: 'Poppins', sans-serif; color: black; margin: none;"> Book Your Next Trip </br>
+                    In 3 Easy Steps
+                </h1>
+                <div class="next-trip-content" style="margin-left: 100px;">
+                    <div style="width:529px; height:87px; font-size: 24px;  font-weight: 700;
+            ;font-family: 'Poppins', sans-serif;">
+                        Choose Destination
+                        <p style=" font-weight: 400; font-size: 18px;">
+                            Lorem ipsum dolor sit amet, consectetur </br>
+                            adipiscing elit. Urna, tortor tempus.</br>
+                        </p>
+                    </div>
+                    </br>
+                    <div style="width:529px; height:87px; font-size: 24px;  font-weight: 700;
+            ;font-family: 'Poppins', sans-serif;">
+                        Make Payment
+                        <p style=" font-weight: 400; font-size: 18px;">
+                            Lorem ipsum dolor sit amet, consectetur </br>
+                            adipiscing elit. Urna, tortor tempus.</br>
+                        </p>
+                    </div>
+                    </br>
+                    <div style=" font-size: 24px;  font-weight: 700;
+            ;font-family: 'Poppins', sans-serif;">
+                        Reach Airport on Selected Date
+                        <p style=" font-weight: 400; font-size: 18px;">
+                            Lorem ipsum dolor sit amet, consectetur </br>
+                            adipiscing elit. Urna, tortor tempus.
+                        </p>
+                    </div>
+                    </br>
+                </div>
+            </div>
+            <div style="width: 50%;background-color: #ffffff;
+            
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;">
+                <img class="card"
+                    src="https://media.istockphoto.com/id/811444932/photo/travel-to-greek-island.jpg?s=1024x1024&w=is&k=20&c=hDk-YOlSZwhfhvH8ScaJ-5BiY6QMOGqUpLmQ5JRDksI="
+                    style="height: 192px; width: 384px; margin-top: 25%; margin-left: 10%;"></img></br>
+                <h3 style="margin-left: 10%; color: black;"> Trip To Greece</h3>
+                <div style="display: flex;">
+                    <div style="margin-left: 10%; font-weight: 500; font-size: 21px;"> 14-29 </br> June</div>
+                    <div style="margin-left: 10%; font-weight: 500; font-size: 21px;">| by Robbin </br> joseph</div>
+                </div>
+                </br>
+                <div>
+                    <div style="margin-left: 10%; font-weight: 500; font-size: 21px;">24 people </br> going</div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section style="padding-top: 100px;">
+        <div style="text-align: center; justify-content: center;">
+            <h1 style="text-align: center; color:brown;font-size: 40px; font-weight: 700;
+        ;font-family: 'Poppins', sans-serif; align-items: center;"> Why <span style="color: black;"> Choose Us</span>
+            </h1>
+            <p style="color:#2C2D32;align-items: center; font-size: 24px; text-align: center; justify-content: center;">
+                Lorem Ipsum is simply dummy text of the printing and typesetting</br>
+                <span style="line-height: 1;">industry. Lorem Ipsum has been the
+                    industry's standard dummy text</span></br>
+                <span style="line-height: 1;">
+                    ever since the 1500s.
+                </span></br>
+            </p>
+        </div>
+    </section>
+    <section style="padding-top: 100px; ">
+        <div style="width: 100%; display: flex;">
+            <div
+                style="border-radius: 20px; background-color: #ffffff;            
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;margin-left: 150px;
+            text-align: center;margin-right: 20px; height: 400px; width: 400px; justify-content: space-between; margin-bottom: 30px;">
+                </br>
+                <h3>Handpicked Hotels</h3></br>
+                <div>
+                    Lorem ipsum dolor sit amet,</br>
+                    <span>
+                        consect adipiscing elit. Aenean</br>
+                    </span>
+                    <span>
+                        commodo ligula eget dolor.</br>
+                    </span>
+                    <span>Aenean
+                        massa
+                    </span>
+                </div>
+            </div>
+            </br>
+            <div
+                style="border-radius: 20px; width: 33%; background-color: #ffffff;
+            
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            text-align: center;margin-left: 100px; margin-right: 100px; height: 400px; width: 400px; justify-content: space-between; ">
+                </br>
+                <h3>World Class Service</h3></br>
+                <div>
+                    Lorem ipsum dolor sit amet,</br>
+                    <span>
+                        consect adipiscing elit. Aenean</br>
+                    </span>
+                    <span>
+                        commodo ligula eget dolor.</br>
+                    </span>
+                    <span>Aenean
+                        massa
+                    </span>
+                </div>
+            </div>
+            </br>
+            <div style="border-radius: 20px; width: 33%; background-color: #ffffff;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            text-align: center;margin-right: 100px; height: 400px; width: 400px; justify-content: space-between;">
+                </br>
+                <h3>Best Price Guarantee</h3></br>
+                <div>
+                    Lorem ipsum dolor sit amet,</br>
+                    <span>
+                        consect adipiscing elit. Aenean</br>
+                    </span>
+                    <span>
+                        commodo ligula eget dolor.</br>
+                    </span>
+                    <span>Aenean
+                        massa
+                    </span>
+                </div>
+            </div>
+            </br>
+        </div>
+    </section>
+    <section class="subscribe" style="padding-top: 100px;">
+        Subscribe to get information, latest news and other
+interesting offers at Bon Voyage
+    </section>
+</body>
+
+</html>
